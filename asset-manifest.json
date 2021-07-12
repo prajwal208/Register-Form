@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Register-Form/static/css/main.d44790aa.chunk.css",
+    "main.js": "/Register-Form/static/js/main.0ae9a079.chunk.js",
+    "main.js.map": "/Register-Form/static/js/main.0ae9a079.chunk.js.map",
+    "runtime-main.js": "/Register-Form/static/js/runtime-main.356fd588.js",
+    "runtime-main.js.map": "/Register-Form/static/js/runtime-main.356fd588.js.map",
+    "static/js/2.dafcbdce.chunk.js": "/Register-Form/static/js/2.dafcbdce.chunk.js",
+    "static/js/2.dafcbdce.chunk.js.map": "/Register-Form/static/js/2.dafcbdce.chunk.js.map",
+    "static/js/3.15fe370b.chunk.js": "/Register-Form/static/js/3.15fe370b.chunk.js",
+    "static/js/3.15fe370b.chunk.js.map": "/Register-Form/static/js/3.15fe370b.chunk.js.map",
+    "index.html": "/Register-Form/index.html",
+    "static/css/main.d44790aa.chunk.css.map": "/Register-Form/static/css/main.d44790aa.chunk.css.map",
+    "static/js/2.dafcbdce.chunk.js.LICENSE.txt": "/Register-Form/static/js/2.dafcbdce.chunk.js.LICENSE.txt",
+    "static/media/rocket.52e732a8.png": "/Register-Form/static/media/rocket.52e732a8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.356fd588.js",
+    "static/js/2.dafcbdce.chunk.js",
+    "static/css/main.d44790aa.chunk.css",
+    "static/js/main.0ae9a079.chunk.js"
+  ]
+}
