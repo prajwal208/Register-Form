@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "firstname": "cena",
+      "lastname": "john",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "prajwal",
+      "lastname": "Naik",
+      "password": "aaaaaaaa",
+      "confirmpassword": "aaaaaaaa",
+      "email": "prajwal208@gmail.com",
+      "phone": 9513091070,
+      "city": "HUbli",
+      "country": "India",
+      "id": 4
+    },
+    {
+      "name": "prajwal",
+      "lastname": "Naik",
+      "password": "qqqqqqqq",
+      "confirmpassword": "qqqqqqqq",
+      "email": "prajwal208@gmail.com",
+      "phone": 9513091070,
+      "city": "HUbli",
+      "country": "India",
+      "id": 5
+    }
+  ]
+}
